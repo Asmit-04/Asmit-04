@@ -1,20 +1,27 @@
+<h1 align="center">Hi, I'm Asmit 👋</h1>
+
 <h3 align="center">Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
-<p align="center">
+<p align="center" style="font-size:18px">
 I'm a passionate developer with hands-on experience in building dynamic and responsive web applications.<br />
 I enjoy turning complex problems into clean and efficient code.<br />
-Currently looking for a Full Stack or Software Development role.
+<strong>Currently looking for a Full Stack or Software Development role.</strong>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmit-04&label=Profile%20views&color=0e75b6&style=flat" alt="asmit-04" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmit-04&label=Profile%20views&color=0e75b6&style=flat" alt="asmit-04" />
+</p>
 
-- 🎯 Actively seeking opportunities Full Stack Development or Software Engineering
+---
 
-- 🌱 I’m currently learning Cloud Technologies(AWS, Azure).
+### 🔍 About Me
 
-- 💬 Ask me about Web development, backend APIs, MySQL, MongoDB, or how to integrate a payment gateway.
-
-- 📫 How to reach me **gargelwarasmit76@gmail.com**
+- 🎯 Actively seeking opportunities in **Full Stack Development** or **Software Engineering**
+- 🌱 Currently learning **Cloud Technologies** (AWS, Azure)
+- 💬 Ask me about: Web development, backend APIs, MySQL, MongoDB, or payment gateway integration
+- 📫 Reach me at: **gargelwarasmit76@gmail.com**
+- 👨‍💻 All of my projects are available here: [github.com/asmit-04]
+- ⚡ Fun Fact: I once fixed a bug by deleting the whole file — and yes, it worked.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
