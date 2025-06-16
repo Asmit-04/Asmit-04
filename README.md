@@ -1,16 +1,18 @@
-<h1 align="center">Hi , I'm Asmit Gargelwar</h1>
 <h3 align="center">Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
 I'm a passionate developer with hands-on experience in building dynamic and responsive web applications.<br />
+I enjoy turning complex problems into clean and efficient code.<br />
+Currently looking for a Full Stack or Software Development role.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmit-04&label=Profile%20views&color=0e75b6&style=flat" alt="asmit-04" /> </p>
 
-- 🎯 Actively seeking opportunities **Full Stack Development** or **Software Engineering****
+- 🎯 Actively seeking opportunities Full Stack Development or Software Engineering
 
-- 🌱 I’m currently learning **Cloud Technologies(AWS, Azure).**
+- 🌱 I’m currently learning Cloud Technologies(AWS, Azure).
 
-- 💬 Ask me about **Web development, backend APIs, MySQL, MongoDB, or how to integrate a payment gateway.**
+- 💬 Ask me about Web development, backend APIs, MySQL, MongoDB, or how to integrate a payment gateway.
 
 - 📫 How to reach me **gargelwarasmit76@gmail.com**
 
